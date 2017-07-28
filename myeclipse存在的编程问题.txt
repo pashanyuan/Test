@@ -1,0 +1,22 @@
+form表单里用onsubmit里或者form表单里的submit按钮的onclick方法里，加return会报错，但是运行是对的，解决方法
+
+
+ctrl n新建
+
+错误修改后还是显示错误，要保存后才更新
+
+shift+上下移动，选选中多行
+
+ 两种自动创建所需要的对象快捷键
+Alt+Shift+L。 
+
+
+自动写system
+选中这一行，alt+？
+
+
+
+Integer是包装类型，可以对其进行为空的判断，if（id=null）
+
+
+成员变量和属性其实是不一样的，  属性是指setget方法后面的数，可以随便定义，只是用自动setget方法生成的事一样的
